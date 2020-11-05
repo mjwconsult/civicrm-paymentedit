@@ -1,4 +1,4 @@
-# paymentedit
+# Edit Payment Form
 
 Replaces core edit payment form with one which allows editing payments linked to payment processors.
 
@@ -11,7 +11,7 @@ find it, without resorting to API or database level interaction.
 
 * PHP v7.2+
 * CiviCRM 5.30+
-* https://github.com/civicrm/civicrm-core/pull/18917
+* https://github.com/civicrm/civicrm-core/pull/18917 (merged in CiviCRM 5.32).
 
 ## Installation
 
